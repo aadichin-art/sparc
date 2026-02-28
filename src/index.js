@@ -1,5 +1,5 @@
 // Basic JavaScript Project
-console.log("Hello, JavaScript!");
+console.log("Sparc");
 
 function greet(name) {
   return `Hello, ${name}!`;
